@@ -9,6 +9,7 @@ function Home() {
         <img src={imageSrc} className="card-img" alt='background' height='710px' />
         <div className="card-img-overlay d-flex flex-column justify-content-center">
           <div className="container">
+          <h5 className="card-title display-2 fw-bolder mb-0 " style={{ color: "black" }}>Hello Mark Wood ...! </h5>
             <h5 className="card-title display-3 fw-bolder mb-0 " style={{ color: "pink" }}>PORT </h5>
             <h5 className="card-title display-3 fw-bolder mb-0 " style={{ color: "pink" }}>FOL </h5>
             <h5 className="card-title display-3 fw-bolder mb-0 " style={{ color: "pink" }}>IO </h5>
